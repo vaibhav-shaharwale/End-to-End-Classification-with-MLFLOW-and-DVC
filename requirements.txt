@@ -16,4 +16,4 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
--e . #look for setup.py file and insatll project as local package
+-e . #look for setup.py file and insatll project as local package 
