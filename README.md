@@ -20,3 +20,21 @@ add "artifacts/*" in .gitignore # so that it not get commited
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+## Dagshub
+
+MLFLOW_TRACKING_URI=https://dagshub.com/vaibhav-shaharwale/End-to-End-Classification-with-MLFLOW-and-DVC.mlflow \
+MLFLOW_TRACKING_USERNAME=vaibhav-shaharwale \
+MLFLOW_TRACKING_PASSWORD=6402cccc2a9084b399ba652290d918ca3005ec55 \
+python script.py
+
+
+Run this to export as env variables:
+
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/vaibhav-shaharwale/End-to-End-Classification-with-MLFLOW-and-DVC.mlflow
+
+export MLFLOW_TRACKING_USERNAME=vaibhav-shaharwale
+
+export MLFLOW_TRACKING_PASSWORD=6402cccc2a9084b399ba652290d918ca3005ec55
+```
