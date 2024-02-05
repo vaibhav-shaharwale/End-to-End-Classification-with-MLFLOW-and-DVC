@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/js/Desktop/MLOPS/End-to-End-Classification-with-MLFLOW-and-DVC/mlruns/0/83462de13898473486d63bf2d8db9f84/artifacts
+end_time: 1707160404928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83462de13898473486d63bf2d8db9f84
+run_name: painted-elk-280
+run_uuid: 83462de13898473486d63bf2d8db9f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707160362279
+status: 3
+tags: []
+user_id: js

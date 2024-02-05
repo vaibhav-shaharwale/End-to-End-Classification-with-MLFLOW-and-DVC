@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/js/Desktop/MLOPS/End-to-End-Classification-with-MLFLOW-and-DVC/mlruns/0/df870a06d062454b9b25e981d2bf918d/artifacts
+end_time: 1707160524926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df870a06d062454b9b25e981d2bf918d
+run_name: rare-hen-705
+run_uuid: df870a06d062454b9b25e981d2bf918d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707160504102
+status: 3
+tags: []
+user_id: js
